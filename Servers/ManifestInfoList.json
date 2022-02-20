@@ -13,14 +13,14 @@
   },
  {
     "ManifestString": "7711594188166789780",
-    "FriendlyName": "July 31th,2018 (Unused RecCenter Build) (Not Out YET)",
+    "FriendlyName": "July 31st, 2018",
     "ManifestPatchInfo": {
-      "AssemmblyURL": "https://cdn.discordapp.com/attachments/862524743467008020/865515582169284608/Assembly-CSharp.dll",
-      "AssemmblyHash": "818302a73dc0473c08c8cbabbd4d401a",
+      "AssemmblyURL": "https://cdn.discordapp.com/attachments/847914591303893002/848204938818748476/Assembly-CSharp.dll",
+      "AssemmblyHash": "1ff51d0616ff073cf1725eec867974ed",
       "PUNAppIDOffset": 165303984,
       "VoiceAppIDOffset": 165304024
     },
-    "RequiresRecNet": false,
-    "ServerName": "RecNet2018"
+    "RequiresRecNet": true,
+    "ServerName": "RR2017Server"
   }
 ]
